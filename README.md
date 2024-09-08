@@ -25,6 +25,7 @@
 <a href="https://t.me/dotthen" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+    <h6>✉️ novosad_codes@mail.ru</h6>
 </div>
 <!--
 **dotcatch/dotcatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
